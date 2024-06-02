@@ -2,7 +2,7 @@ a{
   text-decoration: none;
 }
 .flex-container {
-    margin-top: -10%;
+    margin-top: -5%;
     margin-left: 8%;
     margin-right: 8%;
     display: flex;
@@ -42,7 +42,7 @@ a{
     justify-content: space-between;
     border-radius: 12px;
     /* padding: 28px; */
-    margin: 10%;
+    margin: 5% 10%;
     }
 
     .search-box{
