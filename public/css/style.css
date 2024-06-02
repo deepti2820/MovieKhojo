@@ -20,6 +20,9 @@ a{
     text-decoration: none;
 }
 
+.h-main{
+    margin-right: 5rem;
+}
 header{
     position: fixed;
     top:0;
@@ -44,7 +47,7 @@ header{
 .h-btn, .hero-btn{
     display: inline-block;
     padding: 10px 30px;
-    margin-right: 5rem;
+    /* margin-right: 2rem; */
     color:var(--text-color);
     background:var(--main-color) ;
     font-size: 14px;
